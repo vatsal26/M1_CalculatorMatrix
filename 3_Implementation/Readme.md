@@ -1,5 +1,9 @@
 # Implementation
 
+# Runing the program
+* make all
+* make run
+
 ## Folder Structure
 Folder        | description
 --------------| ----------------------------------------------
