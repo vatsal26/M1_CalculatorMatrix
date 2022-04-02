@@ -11,10 +11,11 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
-`1_Requirements`   | Documents detailing requirements and research
-`2_Design`         | Documents specifying design details
-`3_Implementation` | All code and documentation
+`1_Requirements`   | All required documents
+`2_Design`         | Diagram of the flow
+`3_Implementation` | Main code
 `4_Test_plan`      | Documents with test plans and procedures
+`5_Images          | Required Images
 
 ## Contributors List and Summary
   Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
