@@ -1,48 +1,50 @@
-# images
+# Images
 
-## Some of the screenshots of the program testing each functionality..
+## Snapshots of project
 
-### Inputting choice
+### Menu
 
-![Inputting choice](https://github.com/hemanthasapu/256889-miniproject-ltts/blob/main/5_Images/inputchoice.PNG)
-
-
-### Inputting matrix data
-
-![matrix data](https://github.com/hemanthasapu/256889-miniproject-ltts/blob/main/5_Images/matrixdata.PNG)
+![Menu](https://github.com/vatsal26/M1_CalculatorMatrix/blob/main/5_Images/Menu.png)
 
 
-### Sum of the matrices
+### Order Selection
 
-![sum](https://github.com/hemanthasapu/256889-miniproject-ltts/blob/main/5_Images/sum.PNG)
-
-
-### Difference of the matrices
-
-![Difference](https://github.com/hemanthasapu/256889-miniproject-ltts/blob/main/5_Images/difference.PNG)
+![Order Selection](https://github.com/vatsal26/M1_CalculatorMatrix/blob/main/5_Images/Matrix%20Order%20selection.png)
 
 
-### Product of the matrices
+### Addition
 
-![Product](https://github.com/hemanthasapu/256889-miniproject-ltts/blob/main/5_Images/product.PNG)
-
-
-### Determinant of the matrix
-
-![Determinant](https://github.com/hemanthasapu/256889-miniproject-ltts/blob/main/5_Images/determinant.PNG)
+![Addition](https://github.com/vatsal26/M1_CalculatorMatrix/blob/main/5_Images/Matrix%20Addition.png)
 
 
-### Transpose of the matrix
+### Subtraction
 
-![Transpose](https://github.com/hemanthasapu/256889-miniproject-ltts/blob/main/5_Images/transpose.PNG)
-
-
-### Inverse of the matrix
-
-![Inverse](https://github.com/hemanthasapu/256889-miniproject-ltts/blob/main/5_Images/inverse.PNG)
+![Subtraction](https://github.com/vatsal26/M1_CalculatorMatrix/blob/main/5_Images/Matrix%20Subtraction.png)
 
 
-### Exiting the application
+### Multiplication
+![Multiplication](https://github.com/vatsal26/M1_CalculatorMatrix/blob/main/5_Images/Matrix%20Multiplication.png)
 
-![Exit](https://github.com/hemanthasapu/256889-miniproject-ltts/blob/main/5_Images/exit.PNG)
+
+### Determinant
+
+![Determinant](https://github.com/vatsal26/M1_CalculatorMatrix/blob/main/5_Images/Matrix%20Determinant.png)
+
+
+### Transpose
+
+![Transpose](https://github.com/vatsal26/M1_CalculatorMatrix/blob/main/5_Images/Matrix%20Transpose.png)
+
+
+### Inverse
+
+![Inverse](https://github.com/vatsal26/M1_CalculatorMatrix/blob/main/5_Images/Matrix%20Inverse.png)
+
+
+### Exiting
+
+![Exit](https://github.com/vatsal26/M1_CalculatorMatrix/blob/main/5_Images/Matrix%20Exit.png)
+
+### Testing
+![Testing](https://github.com/vatsal26/M1_CalculatorMatrix/blob/main/5_Images/Testing.png)
 
